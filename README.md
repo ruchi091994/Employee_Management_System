@@ -4,3 +4,6 @@ Employee Management System using Springboot (backened), Angular (frontend) and M
 
 ![empl_mgmt_2](https://user-images.githubusercontent.com/116880538/208237840-fb8f55de-0eee-4630-89a0-c926223372dd.png)
 
+![empl_mgmt_3](https://user-images.githubusercontent.com/116880538/208237887-3244b5f6-490b-4205-a6ae-380137f7f080.png)
+
+
